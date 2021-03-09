@@ -1,8 +1,7 @@
-# My Project Website
+# {{site.title}}
 
 ## Description
-
-This is the description of my group website.
+{{ site.description}}
 
 ## About
 [About](about.md)
