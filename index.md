@@ -1,7 +1,7 @@
-# {{site.title}}
+# {{ site.title }}
 
 ## Description
-{{ site.description}}
+{{ site.description }}
 
 ## About
 [About](about.md)
