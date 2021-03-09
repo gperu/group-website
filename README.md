@@ -25,4 +25,4 @@ Are cause by two tailing spaces at the end of a line.
 2. Two
 3. Three
 
-[Image] (https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
+[Image](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
