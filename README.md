@@ -16,3 +16,13 @@ Are cause by two tailing spaces at the end of a line.
 - Data Carpentry
 - Library Carpentry
 
+## Strikethrough
+
+~~This text is not good~~
+
+### Numbered list
+1. One
+2. Two
+3. Three
+
+[Image] (https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png)
