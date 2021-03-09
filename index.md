@@ -5,5 +5,5 @@
 This is the description of my group website.
 
 ## About
-[About](about)
+[About](about.md)
 
