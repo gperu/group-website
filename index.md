@@ -1,6 +1,7 @@
 ---
 lesson-example: "http://swcarpentry.github.io/git-novice/"
 layout: page
+Layout: default
 ---
 
 # {{ site.title }}
