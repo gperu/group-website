@@ -15,3 +15,4 @@ lesson-example: "http://swcarpentry.github.io/git-novice/"
 ## About
 [About](about.md)
 
+{% include mistakes %}
