@@ -3,6 +3,7 @@ lesson-example: "http://swcarpentry.github.io/git-novice/"
 ---
 
 {% include banner.md %}
+{% include contact.md %}
 
 # {{ site.title }}
 
