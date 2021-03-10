@@ -1,3 +1,4 @@
-gperu.github.io/group-website/contact.html
+## Contact
 
-[Giacomo](g.peru@epcc.ed.ac.uk)
+
+[Giacomo](mailto:g.peru@epcc.ed.ac.uk)
