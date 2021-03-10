@@ -1,9 +1,9 @@
 ---
 lesson-example: "http://swcarpentry.github.io/git-novice/"
+layout: page
 ---
 
 {% include banner.md %}
-{% include contact.md %}
 
 # {{ site.title }}
 
@@ -14,4 +14,7 @@ lesson-example: "http://swcarpentry.github.io/git-novice/"
 
 ## About
 [About](about.md)
+
+{% include contact.md %}
+
 
