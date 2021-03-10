@@ -3,8 +3,6 @@ lesson-example: "http://swcarpentry.github.io/git-novice/"
 layout: page
 ---
 
-{% include banner.md %}
-
 # {{ site.title }}
 
 ## Description
