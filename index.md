@@ -8,7 +8,7 @@ lesson-example: "http://swcarpentry.github.io/git-novice/"
 ## Description
 {{ site.description }}
 
-[example[({{ page.esson-example }}
+[example]({{ page.lesson-example }})
 
 ## About
 [About](about.md)
