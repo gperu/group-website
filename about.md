@@ -1,5 +1,3 @@
-{% include banner.md %} 
-
 # About
 
 ## Project
