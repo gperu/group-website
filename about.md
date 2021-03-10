@@ -1,5 +1,4 @@
 {% include banner.md %} 
-{% include contact.md %}
 
 # About
 
